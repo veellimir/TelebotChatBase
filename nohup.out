@@ -1,0 +1,5 @@
+Listening ...
+Traceback (most recent call last):
+  File "/media/workhome/Рабочие файлы/Python/Intetix/Intetix_bot/main.py", line 204, in <module>
+    time.sleep(10)
+KeyboardInterrupt
